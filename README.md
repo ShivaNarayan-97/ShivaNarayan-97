@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Database, Android libraries**
 
-- 💬 Ask me about **Android, Kotlin**
+- 💬 Ask me about **Android**
 
 - 📫 How to reach me **shivanarayanbehera5@gmail.com**
 
