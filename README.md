@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiva Narayan Behera</h1>
-<h3 align="center">A passionate android developer from India</h3>
+<h3 align="center">An Engineer Student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanarayan-97&label=Profile%20views&color=0e75b6&style=flat" alt="shivanarayan-97" /> </p>
