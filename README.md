@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shivanarayanbehera5@gmail.com**
 
-- ⚡ Fun fact **I am explorer**
+- ⚡ **I am explorer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
