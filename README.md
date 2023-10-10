@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Database, Android libraries**
 
-- 💬 Ask me about **Android**, **Java**, **SQL**, **HTML**, **CSS**, **BOOTSTRAP**
+- 💬 Ask me about **Android**, **Java**, **JDBC**, **Servlet**, **JSP**, **SQL**, **HTML**, **CSS**, **JavaScript**, **BOOTSTRAP**
 
 - 📫 How to reach me **shivanarayanbehera5@gmail.com**
 
