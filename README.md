@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Database, Spring & SpringBoot**
 
-- 💬 Ask me about **Core Java**, **JDBC**, **Servlet**, **JSP**, **JSTL**, **Hibernate**, **SQL**, **HTML**, **CSS**, **JavaScript**, **BOOTSTRAP**, **Android**
+- 💬 Ask me about **Core Java**, **JDBC**, **Servlet**, **JSP**, **JSTL**, **Hibernate**, **SQL**, **HTML**, **CSS**, **JavaScript**, **BOOTSTRAP**
 
 - 📫 How to reach me **shivanarayanbehera5@gmail.com**
 
