@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/shivana32314494" target="blank"><img src="https://img.shields.io/twitter/follow/shivana32314494?logo=twitter&style=for-the-badge" alt="shivana32314494" /></a> </p>
 
-- 🌱 I’m currently learning **Database, Android libraries**
+- 🌱 I’m currently learning **Database, Spring & SpringBoot**
 
-- 💬 Ask me about **Android**, **Java**, **JDBC**, **Servlet**, **JSP**, **SQL**, **HTML**, **CSS**, **JavaScript**, **BOOTSTRAP**
+- 💬 Ask me about **Core Java**, **JDBC**, **Servlet**, **JSP**, **JSTL**, **Hibernate**, **SQL**, **HTML**, **CSS**, **JavaScript**, **BOOTSTRAP**, **Android**
 
 - 📫 How to reach me **shivanarayanbehera5@gmail.com**
 
