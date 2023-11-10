@@ -16,9 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shivana32314494" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivana32314494" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shiva-narayan-behera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shiva-narayan-behera/" height="30" width="40" /></a>
-<a href="https://instagram.com/shivanarayan_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivanarayan_07" height="30" width="40" /></a>
+<a href="https://instagram.com/shivanarayan_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivanarayan_7" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shivanarayanbeh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shivanarayanbeh1" height="30" width="40" /></a>
 </p>
 
